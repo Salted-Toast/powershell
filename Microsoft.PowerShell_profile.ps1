@@ -1,0 +1,1 @@
+oh-my-posh init pwsh --config 'C:\Users\morri\Documents\WindowsPowerShell\morrion-posh.json' | Invoke-Expression
